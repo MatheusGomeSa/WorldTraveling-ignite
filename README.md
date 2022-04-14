@@ -8,6 +8,9 @@ First, run the development server:
 npm run dev
 # or
 yarn dev
+
+#Run server
+json-server --watch ./mook/db.json --port 4000
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.

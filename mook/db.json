@@ -1,0 +1,234 @@
+{
+    "continentslist": [
+        {
+            "id": "north-america",
+            "Country": "América do Norte",
+            "ImageSrc": "https://media.istockphoto.com/photos/night-new-york-reflective-city-lights-picture-id1338128642?b=1&k=20&m=1338128642&s=170667a&w=0&h=V7NpNSphKYleSQh7AMAmQTYtZ0UhoMI1aHL9EPOzFVI=",
+            "Text": "O maior polo cultura do mundo"
+        },
+        {
+            "id": "south-america",
+            "Country": "América do Sul",
+            "ImageSrc": "https://media.istockphoto.com/photos/aerial-panorama-of-botafogo-bay-rio-de-janeiro-picture-id608540602?b=1&k=20&m=608540602&s=170667a&w=0&h=AataLXfn0acAkHnx2CAkKusL4eZl5a7mtOG1LgWdf48=",
+            "Text": "A mais rica fauna e flora do mundo"
+        },
+        {
+            "id": "asia",
+            "Country": "Ásia",
+            "ImageSrc": "https://images.unsplash.com/photo-1540959733332-eab4deabeeaf?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8Y2l0eXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+            "Text": "O continente mais rico do mundo."
+        },
+        {
+            "id": "africa",
+            "Country": "África",
+            "ImageSrc": "https://images.unsplash.com/photo-1484318571209-661cf29a69c3?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8YWZyaWNhfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+            "Text": "O continente Ancestral"
+        },
+        {
+            "id": "europe",
+            "Country": "Europa",
+            "ImageSrc": "https://images.unsplash.com/photo-1581430872221-d1cfed785922?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+            "Text": "O continente mais antigo."
+        },
+        {
+            "id": "oceania",
+            "Country": "Oceania",
+            "ImageSrc": "https://media.istockphoto.com/photos/full-view-of-palau-malakal-island-and-koror-picture-id626815916?b=1&k=20&m=626815916&s=170667a&w=0&h=760sQAJJ43mxJKKPUsDEM4-XRJboFk0jNis1ytJ9-d4=",
+            "Text": "O mundo novo"
+        }
+    ],
+    "contriesinformation": [
+        {
+            "id": "europe",
+            "backgroudImg": "https://environment.leeds.ac.uk/images/Screenshot_2021_10_07_at_09.37.37.png",
+            "continent": "Europa",
+            "continentText": "A Europa é, por convenção, um dos seis continentes do mundo. Compreendendo a península ocidental da Eurásia, a Europa geralmente divide-se da Ásia a leste pela divisória de águas dos montes Urais, o rio Ural, o mar Cáspio, o Cáucaso, e o mar Negro a sudeste",
+            "contriesNumber": "50",
+            "contriesLanguages": "60",
+            "contriesCities": "27",
+            "contriesOptions": [
+                {
+                    "CityBackground": "https://media.istockphoto.com/photos/london-tower-bridge-river-thames-city-skyscrapers-illuminated-sunset-picture-id860119662?b=1&k=20&m=860119662&s=170667a&w=0&h=vvAlw_pNDQBNawOA57gH3YXUqjIbAvT5qJXyXbChemQ=",
+                    "ContrieName": "Reino Unido",
+                    "ContrieCity": "Londres",
+                    "CountrieFlag": "http://geo5.net/imagens/bandeira-do-reino-unido.png"
+                },
+                {
+                    "CityBackground": "https://scontent.fcgh12-1.fna.fbcdn.net/v/t1.6435-9/78482286_1322703054603141_6961948021797945344_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=8bfeb9&_nc_ohc=jKKH1HVH6r0AX9tSb2l&_nc_ht=scontent.fcgh12-1.fna&oh=00_AT_efysnOJYtXdQVfihFVsZ-iNdG_MeYOoiKy-idDcvhjg&oe=6257CD1A",
+                    "ContrieName": "França",
+                    "ContrieCity": "Paris",
+                    "CountrieFlag": "https://geo5.net/imagens/bandeira-da-fran%C3%A7a-grande-150x100.png"
+                },
+                {
+                    "CityBackground": "https://www.citylifemadrid.com/wp-content/uploads/christopher-czermak-7ybKmhDTcz0-unsplash.jpg",
+                    "ContrieName": "Itália",
+                    "ContrieCity": "Roma",
+                    "CountrieFlag": "https://geo5.net/imagens/2011/05/bandeira-italia-2000px-150x100.png"
+                },
+                {
+                    "CityBackground": "https://i0.wp.com/brasilturis.com.br/wp-content/uploads/2021/10/praga-e-eleita-a-cidade-mais-bonita-do-mundo-pela-time-out.jpg?w=720&ssl=1",
+                    "ContrieName": "República Tcheca",
+                    "ContrieCity": "Praga",
+                    "CountrieFlag": "data:image/png;base64,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"
+                },
+                {
+                    "CityBackground": "https://images.ctfassets.net/uld4p9k0kh49/p0vbSg7xhHNRgPrr5qgCg/148b8aa3a1ac68e4353ce402f0f45b37/Amsterdam_in_summer.jpg",
+                    "ContrieName": "Holanda",
+                    "ContrieCity": "Amisterdã",
+                    "CountrieFlag": "https://geo5.net/imagens/Bandeira-da-Holanda-150x100.png"
+                }
+            ]
+        },
+        {
+            "id": "oceania",
+            "backgroudImg": "https://images.unsplash.com/photo-1589330273594-fade1ee91647?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80",
+            "continent": "Oceania",
+            "continentText": "Essas cidades são o ponto de partida para praticar surfe e esportes de aventura em praias, fiordes, vulcões e glaciares e também para visitar vinícolas e interagir com culturas ricas, como a dos aborígenes do deserto australiano e a dos maoris nas áreas geotermais neozelandesas.",
+            "contriesNumber": "14",
+            "contriesLanguages": "2000",
+            "contriesCities": "7",
+            "contriesOptions": [
+                {
+                    "CityBackground": "https://images.unsplash.com/photo-1546268060-2592ff93ee24?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+                    "ContrieName": "Australia",
+                    "ContrieCity": "Sydney",
+                    "CountrieFlag": "https://geo5.net/imagens/Bandeira-da-Australia-150x75.png"
+                },
+                {
+                    "CityBackground": "https://images.unsplash.com/photo-1622732718352-d4c89c582f7c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1188&q=80",
+                    "ContrieName": "Nova Zelandia",
+                    "ContrieCity": "Auckland",
+                    "CountrieFlag": "https://geo5.net/imagens/bandeira-da-nova-zelandia-2000px-150x75.png"
+                }
+            ]
+        },
+        {
+            "id": "africa",
+            "backgroudImg": "https://images.unsplash.com/photo-1547471080-7cc2caa01a7e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1171&q=80",
+            "continent": "Africa",
+            "continentText": "Se o turismo na África para você é somente fazer safári pelas savanas e se os países africanos na sua são todos pobres e sem atrativos, saiba que você tem muito a descobrir sobre a África. Em seus mais de 30 milhões de km², o continente conta com uma grande diversidade de paisagens, etnias, cultura e costumes, além da situação econômica.",
+            "contriesNumber": "54",
+            "contriesLanguages": "240",
+            "contriesCities": "60",
+            "contriesOptions": [
+                {
+                    "CityBackground": "https://images.unsplash.com/photo-1591742708307-ce49d19450d4?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80",
+                    "ContrieName": "África do sul",
+                    "ContrieCity": "Cidade do cabo",
+                    "CountrieFlag": "https://geo5.net/imagens/Bandeira-da-Africa-do-Sul-150x100.png"
+                },
+                {
+                    "CityBackground": "https://images.unsplash.com/photo-1572252009286-268acec5ca0a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+                    "ContrieName": "Egito",
+                    "ContrieCity": "Cairo",
+                    "CountrieFlag": "https://geo5.net/imagens/Bandeira-do-Egito-150x100.png"
+                },
+                {
+                    "CityBackground": "https://images.unsplash.com/photo-1569383746724-6f1b882b8f46?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+                    "ContrieName": "Marrocos",
+                    "ContrieCity": "Chefchaouen",
+                    "CountrieFlag": "https://geo5.net/imagens/bandeira-de-marrocos-2000px-150x100.png"
+                }
+            ]
+        },
+        {
+            "id": "asia",
+            "backgroudImg": "https://images.unsplash.com/photo-1563492065599-3520f775eeed?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80",
+            "continent": "Asia",
+            "continentText": "A Ásia é o maior continente do mundo tanto em tamanho quanto em população e, por causa da grande diversidade de países e culturas, esse é o destino certo para quem quer conhecer lugares realmente novos e diferentes",
+            "contriesNumber": "49",
+            "contriesLanguages": "71",
+            "contriesCities": "27",
+            "contriesOptions": [
+                {
+                    "CityBackground": "https://images.unsplash.com/photo-1547640084-1dfcc7ef3b22?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1118&q=80",
+                    "ContrieName": "Bangkok",
+                    "ContrieCity": "Tailândia",
+                    "CountrieFlag": "https://geo5.net/imagens/bandeira-da-tailandia-150x100.png"
+                },
+                {
+                    "CityBackground": "https://images.unsplash.com/photo-1474181487882-5abf3f0ba6c2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+                    "ContrieName": "China",
+                    "ContrieCity": "Xangai",
+                    "CountrieFlag": "https://geo5.net/imagens/Bandeira-da-China-grande-150x100.png"
+                },
+                {
+                    "CityBackground": "https://images.unsplash.com/photo-1549693578-d683be217e58?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1177&q=80",
+                    "ContrieName": "Japão",
+                    "ContrieCity": "Tokyo",
+                    "CountrieFlag": "https://geo5.net/imagens/Bandeira-do-Jap%C3%A3o-150x100.png"
+                },
+                {
+                    "CityBackground": "https://images.unsplash.com/photo-1601747297625-cf77828558db?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1228&q=80",
+                    "ContrieName": "Coreia do Sul",
+                    "ContrieCity": "Seoul",
+                    "CountrieFlag": "https://geo5.net/imagens/bandeira-coreia-do-sul-2000px-150x100.png"
+                }
+            ]
+        },
+        {
+            "id": "south-america",
+            "backgroudImg": "https://images.unsplash.com/photo-1619546952812-520e98064a52?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1171&q=80",
+            "continent": "América do sul",
+            "continentText": "Viajar na América do Sul pode ser muito mais surpreendente do que você imagina. Normalmente estamos acostumados a conhecer apenas as mais famosas cidades e atrações turísticas, mas nossos vizinhos, e inclusive o Brasil, têm muito mais a oferecer.",
+            "contriesNumber": "50",
+            "contriesLanguages": "60",
+            "contriesCities": "27",
+            "contriesOptions": [
+                {
+                    "CityBackground": "https://images.unsplash.com/photo-1519761112046-3abcd5a21728?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1331&q=80",
+                    "ContrieName": "Peru",
+                    "ContrieCity": "Machu picchu",
+                    "CountrieFlag": "https://geo5.net/imagens/Bandeira-do-Peru-150x100.png"
+                },
+                {
+                    "CityBackground": "https://images.unsplash.com/photo-1610307355900-057d0629775b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1331&q=80",
+                    "ContrieName": "Argentina",
+                    "ContrieCity": "Buenos Aires",
+                    "CountrieFlag": "https://geo5.net/imagens/2011/06/Bandeira-Argentina-2000px-150x94.png"
+                },
+                {
+                    "CityBackground": "https://images.unsplash.com/photo-1579743975517-019a8c660271?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80",
+                    "ContrieName": "Brasil",
+                    "ContrieCity": "Salvador",
+                    "CountrieFlag": "https://geo5.net/imagens/2011/05/Bandeira-do-Brasil-2000px-150x105.png"
+                },
+                {
+                    "CityBackground": "https://images.unsplash.com/photo-1501684691657-cf3012635478?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1332&q=80",
+                    "ContrieName": "Equador",
+                    "ContrieCity": "Quito",
+                    "CountrieFlag": "https://geo5.net/imagens/bandeira-do-equador-2000px-150x100.png"
+                }
+            ]
+        },
+        {
+            "id": "north-america",
+            "backgroudImg": "https://images.unsplash.com/photo-1535025287458-e3badca98021?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1173&q=80",
+            "continent": "América do norte",
+            "continentText": "A América do Norte é uma das regiões preferidas por turistas de todas as partes do mundo. Apesar de formada por poucos, porém grandes países, dentro deles há várias cidades que são os destinos dos sonhos, especialmente de muitos brasileiros que todos os anos rumam em direção ao outro hemisfério.",
+            "contriesNumber": "50",
+            "contriesLanguages": "60",
+            "contriesCities": "27",
+            "contriesOptions": [
+                {
+                    "CityBackground": "https://images.unsplash.com/photo-1519832979-6fa011b87667?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1153&q=80",
+                    "ContrieName": "Canadá",
+                    "ContrieCity": "Toronto",
+                    "CountrieFlag": "https://geo5.net/imagens/Bandeira-do-Canada-150x75.png"
+                },
+                {
+                    "CityBackground": "https://images.unsplash.com/photo-1580846629083-02669741360a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1127&q=80",
+                    "ContrieName": "México",
+                    "ContrieCity": "Cabo san lucas",
+                    "CountrieFlag": "https://geo5.net/imagens/Bandeira-do-Mexico-150x86.png"
+                },
+                {
+                    "CityBackground": "https://images.unsplash.com/photo-1485871981521-5b1fd3805eee?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+                    "ContrieName": "Estados Unidos da América",
+                    "ContrieCity": "Nova York",
+                    "CountrieFlag": "https://geo5.net/imagens/Bandeira-dos-Estados-Unidos-2000px-150x79.png"
+                }
+            ]
+        }
+    ]
+}
